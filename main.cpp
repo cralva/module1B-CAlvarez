@@ -38,7 +38,7 @@ void Person::setName(std::string n)
 
 int Person::getAge()
 {
-    return 0;
+    return age;
 }
 
 void Person::setAge(int a)
