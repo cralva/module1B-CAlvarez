@@ -1,3 +1,8 @@
+/* Program name: Module 1B Lab
+* Author: Cristian Alvarez
+* Date last updated: 11/2/2025
+* Purpose: Making a class and structs
+*/
 #include <iostream>
 #include <string>
 
